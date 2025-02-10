@@ -13,7 +13,7 @@ Este proyecto consiste en una aplicación basada en **Python** y **MySQL** para 
 ### 🔹 Diagrama Entidad-Relación (E-R)  
 ![Diagrama E-R](https://github.com/user-attachments/assets/a18f8790-9a39-4f85-ba97-ae920cf60201)  
 
-### 🔹 Diagrama Relacional  
+### 🔹 Modelo Relacional  
 ![Diagrama Relacional](https://github.com/user-attachments/assets/078ff46b-e917-4834-97c0-fb93702fd102)  
 
 ## 🚀 Pasos para ejecutar el programa  
