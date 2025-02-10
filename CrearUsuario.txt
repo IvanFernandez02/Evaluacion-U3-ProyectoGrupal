@@ -1,0 +1,16 @@
+create user 'Fernandez'@'localhost' identified by '2002';
+
+grant create on *.* to 'Fernandez'@'localhost';
+flush privileges;
+
+grant select on *.* to 'Fernandez'@'localhost';
+flush privileges;
+
+grant insert on *.* to 'Fernandez'@'localhost';
+flush privileges;
+
+grant update on *.* to 'Fernandez'@'localhost';
+flush privileges;
+
+
+Con estos comandos se crea el usuario y se le da las respectivas restricciones
