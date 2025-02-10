@@ -32,7 +32,7 @@ cd tu-repositorio
 - Crear un nuevo usuario en MySQL con una contraseña segura.  
 
 #### 🔸 Asignar permisos limitados  
-- Asignar permisos limitados a este usuario (solo SELECT, INSERT, UPDATE).  
+- Asignar permisos limitados a este usuario (solo CREATE, SELECT, INSERT, UPDATE).  
 
 ### 3️⃣ Ejecutar la aplicación  
 - Abrir el programa en Python.  
