@@ -48,4 +48,4 @@ cd tu-repositorio
 
 ## 📌 Tecnologías utilizadas  
 - **Python** (Tkinter para la interfaz gráfica)  
-- **MySQL** (Gestión de base de datos)  
+- **MySQL** (Gestión de base de datos). 
